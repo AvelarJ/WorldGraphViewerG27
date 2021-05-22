@@ -1,0 +1,10 @@
+Contains Analysis that is incompatible with the given countries
+AnalysisF USA 1999 2015
+AnalysisA Brazil 2000 2019
+AnalysisB USA 2000 2005
+AnalysisA Canada 1999 2006
+AnalysisC Canada 2007 2015
+AnalysisE China 1980 1988
+AnalysisD France 2001 2010
+AnalysisG France 1980 1983
+AnalysisH Brazil 2002 2008
